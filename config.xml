@@ -35,9 +35,9 @@
 
 =======
 >>>>>>> a7fb93809fbc973bc77310d8fb7e0fe22a121fbc
-        
-<<<<<<< HEAD
         <icon src = "img/mylogo.png"/>
+<<<<<<< HEAD
+        
 =======
 >>>>>>> a7fb93809fbc973bc77310d8fb7e0fe22a121fbc
         <splash density="land-ldpi" src="www/res/screen/android/drawable-land-ldpi-screen.png" />
