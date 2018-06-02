@@ -38,7 +38,14 @@
         <icon density="xhdpi" src="www/res/icon/android/drawable-xhdpi-icon.png" />
         <icon density="xxhdpi" src="www/res/icon/android/drawable-xxhdpi-icon.png" />
         <icon density="xxxhdpi" src="www/res/icon/android/drawable-xxxhdpi-icon.png" />
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+        
+=======
+>>>>>>> a7fb93809fbc973bc77310d8fb7e0fe22a121fbc
+>>>>>>> b2132ddbf61e230dff1f586c6af18ec556bc0ab8
         <splash density="land-ldpi" src="www/res/screen/android/drawable-land-ldpi-screen.png" />
         <splash density="land-mdpi" src="www/res/screen/android/drawable-land-mdpi-screen.png" />
         <splash density="land-hdpi" src="www/res/screen/android/drawable-land-hdpi-screen.png" />
