@@ -6,7 +6,7 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>first app</name>
+    <name>CS10</name>
     <description>
         CS-10 project app
     </description>
